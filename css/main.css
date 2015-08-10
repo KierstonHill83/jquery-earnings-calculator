@@ -1,0 +1,17 @@
+.form-input {
+  min-width: 200px;
+}
+
+.box {
+  border-right: 1px solid #eee;
+  padding: 5px;
+  text-align: center;
+}
+
+.totals {
+  padding: 10px 0;
+}
+
+.totals > p {
+  font-weight: bold;
+}
